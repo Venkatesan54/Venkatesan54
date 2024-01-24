@@ -2,9 +2,9 @@
 
 👀 I’m interested in creating seamless and user-friendly web experiences. I love diving into both front-end and back-end development to build robust and dynamic websites.
 
-🌱 I’m currently learning about the latest tools and frameworks in web development, always striving to stay updated with the ever-evolving technology landscape.
+🌱 I’m currently learning about the latest tools and frameworks in web development.
 
-💞️ I’m looking to collaborate on exciting web development projects. Whether it's crafting beautiful user interfaces or optimizing server-side functionality, I'm up for the challenge.
+💞️ I’m looking to collaborate on exciting web development projects.
 
 📫 How to reach me: Feel free to connect with me on this platform for any web development discussions or collaboration opportunities.
 
