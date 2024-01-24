@@ -6,10 +6,6 @@
 
 💞️ I’m looking to collaborate on exciting web development projects.
 
-📫 How to reach me: Feel free to connect with me on this platform for any web development discussions or collaboration opportunities.
-
-😄 Pronouns: Share your preferred pronouns with me so I can address you appropriately.
-
 ⚡ Fun fact: Outside of coding, I enjoy leraning everyday, adding a bit of creativity to my life!
 
 
