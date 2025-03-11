@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesan54&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesan54" /> </p>
 
-- 🔭 I’m currently **Final Year Student**
+- 🔭 I’m currently doing **MCA**
 
 - 🌱 I’m currently learning **Full Stack Web Devlopment**
 
