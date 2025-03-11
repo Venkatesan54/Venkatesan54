@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Devlopment**
 
-- 🤝 I’m looking for help with **Front-End Web Development**
+- 🤝 I’m looking for help with **Full Stack Web Development**
 
 - 📫 How to reach me **venkatesan210204@gmail.com**
 
