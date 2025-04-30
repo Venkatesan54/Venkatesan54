@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkatesan</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack Web developer</h3>
 <p align="right"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="venkatesan54" width=400 align=right /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesan54&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesan54" /> </p>
