@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently doing **MCA**
 
-- 🌱 I’m currently learning **Full Stack Web Devlopment**
+- 🌱 I’m currently learning **MERN Stack Devlopment**
 
-- 🤝 I’m looking for help with **Full Stack Web Development**
+- 🤝 I’m looking for help with **MERN Stack Development**
 
 - 📫 How to reach me **venkatesan210204@gmail.com**
 
